@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "FORGIVE ME",
+  "base_artist": "ちゃんみな",
+  "createdAt": "2026-02-22T16:37:19.324244Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Forgive Me",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/01_Forgive_Me_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Forgive Me",
+      "artist": "Sandra",
+      "has_synced": true,
+      "path": "select/02_Forgive_Me_Sandra.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Forgive Me (Chill Out Radio Edit)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/03_Forgive_Me_(Chill_Out_Radio_Edit)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Forgive Me",
+      "artist": "Austra",
+      "has_synced": true,
+      "path": "select/04_Forgive_Me_Austra.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Forgive Me",
+      "artist": "City and Colour",
+      "has_synced": false,
+      "path": "select/05_Forgive_Me_City_and_Colour.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Forgive Me",
+      "artist": "City And Colour",
+      "has_synced": true,
+      "path": "select/06_Forgive_Me_City_And_Colour.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Forgive Me",
+      "artist": "Cowboy Junkies",
+      "has_synced": false,
+      "path": "select/07_Forgive_Me_Cowboy_Junkies.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Forgive Me Father (Mix Version)",
+      "artist": "DJ Khaled feat. Meghan Trainor, Wiz Khalifa & Wale",
+      "has_synced": false,
+      "path": "select/08_Forgive_Me_Father_(Mix_Version)_DJ_Khaled_feat._Meghan_Trainor,_Wiz_Khalifa_&_Wale.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Forgive Me",
+      "artist": "Therion",
+      "has_synced": true,
+      "path": "select/09_Forgive_Me_Therion.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Too Much MIDI (Please Forgive Me)",
+      "artist": "Ford & Lopatin",
+      "has_synced": true,
+      "path": "select/10_Too_Much_MIDI_(Please_Forgive_Me)_Ford_&_Lopatin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Forgive Me Father (I Have Sinned)",
+      "artist": "Cradle of Filth",
+      "has_synced": true,
+      "path": "select/11_Forgive_Me_Father_(I_Have_Sinned)_Cradle_of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Forgive Me Father (I Have Sinned)",
+      "artist": "Cradle of Filth",
+      "has_synced": false,
+      "path": "select/12_Forgive_Me_Father_(I_Have_Sinned)_Cradle_of_Filth.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Forgive Me Father (I Have Sinned) (Elder Version)",
+      "artist": "Cradle of Filth",
+      "has_synced": true,
+      "path": "select/13_Forgive_Me_Father_(I_Have_Sinned)_(Elder_Version)_Cradle_of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Forgive Me Father (I'm in a Trance)",
+      "artist": "Cradle of Filth",
+      "has_synced": true,
+      "path": "select/14_Forgive_Me_Father_(I'm_in_a_Trance)_Cradle_of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Forgive Me Father (I’m in a Trance)",
+      "artist": "Cradle of Filth",
+      "has_synced": true,
+      "path": "select/15_Forgive_Me_Father_(I’m_in_a_Trance)_Cradle_of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "(Forgive Me) My Little Flower Princess",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/16_(Forgive_Me)_My_Little_Flower_Princess_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "(Forgive Me) My Little Flower Princess",
+      "artist": "John Lennon & Yoko Ono",
+      "has_synced": true,
+      "path": "select/17_(Forgive_Me)_My_Little_Flower_Princess_John_Lennon_&_Yoko_Ono.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FORGIVE ME",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_FORGIVE_ME_ちゃんみな.txt"
+    }
+  ]
+}
